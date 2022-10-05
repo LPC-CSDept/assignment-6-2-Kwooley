@@ -8,6 +8,7 @@ using namespace std;
 double nthpowerp(int n)
 {
         // return n_th power number
+        // complte all code
 }
 double nthpowern(int n)
 {
